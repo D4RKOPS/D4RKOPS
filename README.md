@@ -3,6 +3,13 @@
 <h1>Hi there!👋, I'm  Juan Esteban</h1>
  <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g0cmhvYzljeTQzN2NoYW9jMDhsZXAycDhnb3Nuc2FpbWs4dXZibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" width = 200/>
 
+
+
+<p align="center">
+   <a href="https://github.com/D4RKOPS/D4RKOPS"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Kef;I+am+a+university+student;Amateur+3d+Modeler;Java+Enjoyer+:D;Apprentice+of+life+%3C3"></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KevinVincent016&label=Profile%20views&color=0e75b6&style=flat" alt="KevinVincent016" /> </p>
 <h2>Systems Engineer passionate about technology, problem-solving, and continuous learning.
 I enjoy exploring the fields of Machine Learning and DevOps, where I combine automation, scalability, and intelligent systems to build impactful solutions.</h2>
 </div>
