@@ -10,8 +10,12 @@ I enjoy exploring the fields of Machine Learning and DevOps, where I combine aut
 <div id = "aboutMe" align = "left">
   <h2>About me:</h2>
   <ul>
-    <li>🌱 I’m currently learning Machine learnig and  Cloud computing </li>
+    <li>🌱 I’m currently expanding my knowledge in AI, Cloud Computing, and MLOps </li>
     <li>📚 I'm fluent in spanish and english </li>
+    <li>🔧 Passionate about DevOps practices, automation, and scalable architectures</li>
+    <li>💡 I enjoy solving problems and turning ideas into real-world solutions</li>
+    <li>🎯 Constantly seeking opportunities to grow as a Systems Engineer and contribute to impactful projects</li>
+    
   
     
   </ul>
