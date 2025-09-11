@@ -16,8 +16,23 @@ I enjoy exploring the fields of Machine Learning and DevOps, where I combine aut
     
   </ul>
 </div>
+
+
+
+
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and tools:</b>
+
+<br>
+
+
+
+<p align="center">
 <div>
-  <h2>Languages and tools:</h2>
+ 
  
   <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' alt='java' height='30'>
   <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='30'>
